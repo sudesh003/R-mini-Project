@@ -6,4 +6,4 @@ The mini project involves analysis of housing prices in various localities in an
 
 The data is analyzed and visualized using various tools and techniques of R programming language. It involves analyzing data set, removing uncertain data, using R tools and techniques like linear regression to process the dataset and obtaining useful insights based on various parameters about the data like Location. The objective of the project is to get a visual and analytical insight of Price and Area relation to individuals looking to buy and sell properties around these localities.
 
-	 To analyse this data we have used R programming language. We have used various R tools and techniques to process the data from dataset and obtain a summary, plot of regression line and prediction of price given the area and location.
+To analyse this data we have used R programming language. We have used various R tools and techniques to process the data from dataset and obtain a summary, plot of regression line and prediction of price given the area and location.
